@@ -172,7 +172,7 @@ public class MyClass
 ```
 
 ### Consider using higher-level abstractions
-Image there is a use case that requires the content of a text file. In this case you should consider to make your own abstraction on top of **Thinktecture.Abstractions** that provides a higher-level abstration.
+Imagine there's an use case that requires the content of a text file. In this case you should consider to make your own abstraction on top of **Thinktecture.Abstractions** that provides a higher-level abstration.
 Let's compare both approaches:
 
 #### Low-Level API
